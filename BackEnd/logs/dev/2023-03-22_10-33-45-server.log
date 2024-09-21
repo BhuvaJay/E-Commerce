@@ -1,0 +1,13 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-22T05:03:50.465Z"}
+{"appEnv":"dev","level":"info","message":"3 - CartData is updated","timestamp":"2023-03-22T09:42:32.597Z"}
+{"appEnv":"dev","level":"info","message":"3 - ProductsData is updated","timestamp":"2023-03-22T09:42:32.680Z"}
+{"appEnv":"dev","level":"info","message":"2 - CartData is updated","timestamp":"2023-03-22T09:43:09.179Z"}
+{"appEnv":"dev","level":"info","message":"2 - ProductsData is updated","timestamp":"2023-03-22T09:43:09.220Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-22T11:34:55.175Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-22T11:36:01.771Z"}
+{"appEnv":"dev","level":"info","message":"1 - CartData is updated","timestamp":"2023-03-22T11:41:24.966Z"}
+{"appEnv":"dev","level":"info","message":"1 - ProductsData is updated","timestamp":"2023-03-22T11:41:24.993Z"}
+{"appEnv":"dev","level":"info","message":"1 - CartData is updated","timestamp":"2023-03-22T11:41:26.104Z"}
+{"appEnv":"dev","level":"info","message":"1 - ProductsData is updated","timestamp":"2023-03-22T11:41:26.121Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-22T11:41:37.405Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-22T11:57:08.117Z"}

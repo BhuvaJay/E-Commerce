@@ -1,0 +1,76 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-23T10:18:32.619Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:20:11.637Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:21:05.162Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:21:05.175Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:23:23.564Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:24:13.702Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:26:15.818Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:26:33.344Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:26:34.168Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:26:42.169Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:26:44.170Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:26:50.182Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:27:06.403Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:27:17.198Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:27:27.012Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:31:56.515Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:31:57.460Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:31:58.173Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:33:26.323Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:37:03.870Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:39:46.157Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:40:02.464Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /checkUser - GET - ::1","timestamp":"2023-03-23T10:43:29.375Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /checkUser - GET - ::1","timestamp":"2023-03-23T10:43:56.841Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:44:22.067Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:46:05.442Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:46:33.309Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:46:37.210Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:48:06.106Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:51:28.068Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:51:39.902Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:51:46.910Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T10:53:19.180Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:58:46.430Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:59:18.554Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:59:21.776Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T10:59:25.682Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:00:01.514Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:00:26.161Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T11:00:26.230Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T11:00:26.273Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T11:00:26.277Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T11:00:26.279Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:01:19.294Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:01:21.645Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:01:47.003Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:02:09.435Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:02:40.653Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:03:17.343Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:03:59.852Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:03:59.872Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:03:59.879Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:03:59.884Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:03:59.891Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:04:19.529Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:08:10.653Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:12:27.351Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:13:47.834Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:17:45.988Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:18:57.769Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:19:15.142Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:21:08.512Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T11:21:08.607Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T11:21:08.613Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T11:21:08.622Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T11:21:08.638Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:21:21.242Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:21:25.723Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:21:25.732Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:21:25.784Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:21:25.795Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:24:14.310Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:24:14.347Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:24:14.356Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:24:14.389Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T11:24:14.403Z"}

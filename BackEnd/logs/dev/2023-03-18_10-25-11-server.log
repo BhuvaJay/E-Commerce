@@ -1,0 +1,2 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-18T04:55:14.514Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=5&skip=0&sortBy=categoryid:asc - GET - ::ffff:127.0.0.1","timestamp":"2023-03-18T04:55:18.378Z"}

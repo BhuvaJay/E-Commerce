@@ -1,0 +1,17 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-20T13:19:54.404Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-20T13:21:26.091Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-20T13:27:01.381Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-20T13:27:30.723Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-20T13:28:32.482Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::ffff:127.0.0.1","timestamp":"2023-03-20T13:30:37.298Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::ffff:127.0.0.1","timestamp":"2023-03-20T13:37:18.268Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-20T13:37:30.335Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-20T13:38:17.875Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-20T13:44:49.319Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Carts/1 - PATCH - ::1","timestamp":"2023-03-20T13:44:49.343Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-21T04:46:56.172Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Carts/1 - PATCH - ::1","timestamp":"2023-03-21T04:46:56.264Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-21T04:49:01.649Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Carts/1 - PATCH - ::1","timestamp":"2023-03-21T04:49:01.662Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-21T04:49:17.628Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Carts/1 - PATCH - ::1","timestamp":"2023-03-21T04:49:17.647Z"}

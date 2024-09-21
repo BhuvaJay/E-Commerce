@@ -1,0 +1,9 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-17T07:48:02.271Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:48:02.949Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:48:04.070Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users/me - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:48:08.770Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users/me - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:48:10.362Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:48:14.214Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T08:51:13.208Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss - POST - ::ffff:127.0.0.1","timestamp":"2023-03-17T09:00:57.971Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss - POST - ::ffff:127.0.0.1","timestamp":"2023-03-17T09:01:19.816Z"}

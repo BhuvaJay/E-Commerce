@@ -1,0 +1,14 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-17T07:11:53.694Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:11:54.484Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:42:07.709Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:42:14.810Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:42:15.724Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:42:16.560Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:42:23.571Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:42:24.536Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:42:30.992Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:42:35.716Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:42:54.851Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users/me - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:43:11.567Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users/me - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:43:13.176Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users/me - GET - ::ffff:127.0.0.1","timestamp":"2023-03-17T07:43:14.135Z"}

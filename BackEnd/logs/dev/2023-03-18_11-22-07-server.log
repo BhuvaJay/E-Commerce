@@ -1,0 +1,5 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-18T05:52:10.503Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::ffff:127.0.0.1","timestamp":"2023-03-18T05:52:11.647Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::ffff:127.0.0.1","timestamp":"2023-03-18T05:52:36.220Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::ffff:127.0.0.1","timestamp":"2023-03-18T05:53:10.724Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::ffff:127.0.0.1","timestamp":"2023-03-18T06:02:03.548Z"}

@@ -1,0 +1,7 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-18T04:37:57.920Z"}
+{"appEnv":"dev","level":"info","message":"201 || undefined - /users - POST - ::ffff:127.0.0.1","timestamp":"2023-03-18T04:40:20.659Z"}
+{"appEnv":"dev","level":"error","message":"undefinederror in sending mail","timestamp":"2023-03-18T04:40:22.860Z"}
+{"appEnv":"dev","level":"info","message":"201 || undefined - /users - POST - ::ffff:127.0.0.1","timestamp":"2023-03-18T04:40:59.837Z"}
+{"appEnv":"dev","level":"error","message":"undefinederror in sending mail","timestamp":"2023-03-18T04:41:00.968Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-18T04:42:31.324Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-18T04:42:36.551Z"}

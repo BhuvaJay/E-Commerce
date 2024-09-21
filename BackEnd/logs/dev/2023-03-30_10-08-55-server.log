@@ -1,0 +1,10 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-30T04:39:04.200Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Products-Categorys/undefined - GET - ::1","timestamp":"2023-03-30T04:39:13.828Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Products-Categorys/$%7B...catArr%7D - GET - ::1","timestamp":"2023-03-30T04:40:53.366Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Products-Categorys/undefined - GET - ::1","timestamp":"2023-03-30T04:43:52.349Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Products-Categorys/undefined - GET - ::1","timestamp":"2023-03-30T04:44:25.198Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Products-Categorys/undefined - GET - ::1","timestamp":"2023-03-30T04:44:45.223Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Products-Categorys/1,2 - GET - ::ffff:127.0.0.1","timestamp":"2023-03-30T04:45:49.360Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Products-Categorys/1 - GET - ::1","timestamp":"2023-03-30T04:46:03.675Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Products-Categorys/1 - GET - ::1","timestamp":"2023-03-30T04:47:47.230Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Products-Categorys/1 - GET - ::1","timestamp":"2023-03-30T04:47:51.035Z"}

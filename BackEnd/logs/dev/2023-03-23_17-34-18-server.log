@@ -1,0 +1,15 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-23T12:04:23.572Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T12:04:36.435Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T12:04:36.581Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T12:04:54.300Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T12:04:54.367Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T12:05:06.732Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T12:05:06.756Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T12:27:52.850Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T12:27:52.902Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T12:27:52.906Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T12:37:43.424Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T12:37:43.460Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-23T12:37:43.462Z"}
+{"appEnv":"dev","level":"info","message":"201 || undefined - /users - POST - ::1","timestamp":"2023-03-23T13:27:11.766Z"}
+{"appEnv":"dev","level":"error","message":"undefinederror in sending mail","timestamp":"2023-03-23T13:27:13.652Z"}

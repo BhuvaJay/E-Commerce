@@ -1,0 +1,2 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-23T11:37:32.981Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-23T11:39:07.429Z"}

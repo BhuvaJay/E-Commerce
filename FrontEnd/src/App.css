@@ -1,0 +1,163 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#CartImg {
+  height: 100%;
+  width: 100%;
+}
+
+#Total {
+  position: fixed;
+  width: 31vw;
+}
+
+@media only screen and (max-width: 600px) {
+  #Total {
+    position: relative !important;
+    display: flex;
+    flex-wrap: wrap !important;
+    width: auto;
+  }
+
+}
+
+.dashed {
+  border-top: 0.13em dashed;
+}
+
+.badge {
+  padding-left: 9px;
+  padding-right: 9px;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+
+.label-warning[href],
+.badge-warning[href] {
+  background-color: #c67605;
+}
+
+#lblCartCount {
+  font-size: 12px;
+  padding: 0 5px;
+  vertical-align: top;
+  margin-left: -10px;
+}
+
+/* Pagination */
+
+.pagination {
+  display: flex;
+  transition: 0.2s ease-in-out;
+}
+
+.pagination li a {
+  margin: 0px 0.05rem;
+  text-decoration: none;
+  border: 1px solid #ddd;
+}
+
+.pagination li {
+  transition: 0.2s ease-in-out;
+  margin: 0px 0.05rem;
+}
+
+.pagination li a {
+  padding: 0.375em 0.875rem;
+  color: black;
+  text-decoration: none;
+}
+
+.pagination li.active a {
+  background-color: #230deb;
+  color: white;
+  border: 1px solid #230deb;
+}
+
+.pagination li:hover:not(.active) a {
+  background-color: #ddd;
+}
+
+.pagination li:hover {
+  /* transform: translate(0, -0.2rem); */
+}
+
+.pagination li:not(.previous, .next) a {
+  border-radius: 5px;
+}
+
+.pagination li.previous a {
+  /* background-color: red; */
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  margin-right: 5px;
+}
+
+.pagination li.next a {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin-left: 5px;
+}
+
+.icon-style {
+  display: flex;
+  gap: 0.2rem;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.icon {
+  font-size: 1.5rem;
+  color: orange;
+}
+
+.dna {
+  position: fixed;
+  right: 50vw;
+  z-index: 2;
+  height: 100vh;
+}
+
+#cartDetails {
+  height: auto !important;
+  /* overflow-x: hidden; */
+  overflow-y: scroll;
+}

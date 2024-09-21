@@ -1,0 +1,50 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-27T04:19:55.768Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-27T09:11:58.866Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-27T09:11:59.600Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:30.238Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /AllProductss - GET - ::1","timestamp":"2023-03-27T09:14:30.269Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:30.277Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:38.203Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:38.218Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /AllProductss - GET - ::1","timestamp":"2023-03-27T09:14:38.225Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:49.074Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /AllProductss - GET - ::1","timestamp":"2023-03-27T09:14:49.084Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:49.096Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:52.021Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /AllProductss - GET - ::1","timestamp":"2023-03-27T09:14:52.027Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:52.035Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:53.108Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /AllProductss - GET - ::1","timestamp":"2023-03-27T09:14:53.115Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:14:53.124Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:15:04.414Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /AllProductss - GET - ::1","timestamp":"2023-03-27T09:15:04.419Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:15:04.423Z"}
+{"appEnv":"dev","level":"info","message":"201 || undefined - /users - POST - ::1","timestamp":"2023-03-27T09:21:21.652Z"}
+{"appEnv":"dev","level":"error","message":"undefinederror in sending mail","timestamp":"2023-03-27T09:21:23.289Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:21:23.927Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /AllProductss - GET - ::1","timestamp":"2023-03-27T09:21:23.955Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T09:21:23.961Z"}
+{"appEnv":"dev","level":"info","message":"201 || undefined - /users - POST - ::1","timestamp":"2023-03-27T11:56:51.584Z"}
+{"appEnv":"dev","level":"error","message":"undefinederror in sending mail","timestamp":"2023-03-27T11:56:53.002Z"}
+{"appEnv":"dev","level":"info","message":"201 || undefined - /users - POST - ::1","timestamp":"2023-03-27T12:04:43.244Z"}
+{"appEnv":"dev","level":"error","message":"undefinederror in sending mail","timestamp":"2023-03-27T12:04:44.459Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T12:34:28.423Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /AllProductss - GET - ::1","timestamp":"2023-03-27T12:34:28.426Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T12:34:28.435Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T12:37:17.104Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Productss?limit=4&skip=0&sortBy=productId:asc - GET - ::1","timestamp":"2023-03-27T12:37:17.138Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /AllProductss - GET - ::1","timestamp":"2023-03-27T12:37:17.146Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-28T04:35:55.179Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-28T04:35:55.354Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-28T04:41:04.999Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-28T04:41:05.092Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-28T04:49:42.216Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-28T04:49:42.274Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-28T04:52:31.447Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-28T04:52:31.935Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-28T04:52:48.075Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-28T04:52:48.106Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-28T04:53:15.365Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-28T04:53:15.485Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-28T04:54:05.257Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-28T04:54:05.275Z"}

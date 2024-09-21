@@ -1,0 +1,44 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-22T12:55:30.547Z"}
+{"appEnv":"dev","level":"error","message":"500 || undefined - /Productss?limit=8&skip=0&sortBy=id:asc - GET - ::1","timestamp":"2023-03-22T12:58:30.693Z"}
+{"appEnv":"dev","level":"info","message":"3 - CartData is updated","timestamp":"2023-03-22T13:00:57.839Z"}
+{"appEnv":"dev","level":"info","message":"3 - CartData is updated","timestamp":"2023-03-22T13:00:57.842Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/3 - PATCH - ::1","timestamp":"2023-03-22T13:00:57.864Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/3 - PATCH - ::1","timestamp":"2023-03-22T13:00:57.885Z"}
+{"appEnv":"dev","level":"info","message":"3 - CartData is updated","timestamp":"2023-03-22T13:00:58.911Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/3 - PATCH - ::1","timestamp":"2023-03-22T13:00:58.924Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-22T13:04:24.335Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-22T13:04:24.364Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-22T13:04:32.466Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-22T13:04:32.479Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-22T13:04:32.939Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-22T13:04:32.949Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-22T13:07:51.027Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-22T13:07:51.040Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:41:09.224Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-23T04:41:09.297Z"}
+{"appEnv":"dev","level":"info","message":"2 - CartData is updated","timestamp":"2023-03-23T04:41:37.962Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/2 - PATCH - ::1","timestamp":"2023-03-23T04:41:37.975Z"}
+{"appEnv":"dev","level":"info","message":"1 - CartData is updated","timestamp":"2023-03-23T04:41:38.771Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/1 - PATCH - ::1","timestamp":"2023-03-23T04:41:38.783Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T04:43:45.846Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:43:45.879Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:44:29.910Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-23T04:44:29.922Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:44:29.965Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-23T04:44:29.972Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:44:30.114Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-23T04:44:30.123Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:44:30.283Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-23T04:44:30.293Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:44:31.339Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-23T04:44:31.348Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:44:31.521Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-23T04:44:31.529Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:44:31.724Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-23T04:44:31.735Z"}
+{"appEnv":"dev","level":"info","message":"0 - CartData is updated","timestamp":"2023-03-23T04:44:31.939Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/0 - PATCH - ::1","timestamp":"2023-03-23T04:44:31.950Z"}
+{"appEnv":"dev","level":"info","message":"3 - CartData is updated","timestamp":"2023-03-23T04:45:20.230Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Productss/3 - PATCH - ::1","timestamp":"2023-03-23T04:45:20.242Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-23T04:45:55.247Z"}
+{"appEnv":"dev","level":"info","message":"3 - CartData is updated","timestamp":"2023-03-23T04:45:55.269Z"}

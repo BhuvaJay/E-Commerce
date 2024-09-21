@@ -1,0 +1,4 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-30T09:11:36.966Z"}
+{"appEnv":"dev","level":"error","message":"500 || undefined - /Products-Categorys-Search/1,2,3?limit=4&skip=0&sortBy=productId:asc&search= - GET - ::1","timestamp":"2023-03-30T09:11:40.910Z"}
+{"appEnv":"dev","level":"error","message":"500 || undefined - /Products-Categorys-Search/1,2,3?limit=4&skip=0&sortBy=productId:asc&search= - GET - ::1","timestamp":"2023-03-30T09:11:40.975Z"}
+{"appEnv":"dev","level":"error","message":"500 || undefined - /Products-Categorys-Search/1,2,3?limit=4&skip=0&sortBy=productId:asc&search= - GET - ::1","timestamp":"2023-03-30T09:11:40.994Z"}

@@ -1,0 +1,2 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-30T08:34:52.895Z"}
+{"appEnv":"dev","level":"error","message":"500 || undefined - /Products-Categorys-Search/[2,3]?limit=10&skip=0&sortBy=productId:asc&search=iphone - GET - ::ffff:127.0.0.1","timestamp":"2023-03-30T08:37:09.957Z"}

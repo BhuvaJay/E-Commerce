@@ -1,0 +1,7 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-04-06T04:48:06.842Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Categorys - GET - ::ffff:127.0.0.1","timestamp":"2023-04-06T04:48:42.881Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Categorys - GET - ::ffff:127.0.0.1","timestamp":"2023-04-06T04:48:47.415Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Categorys - GET - ::ffff:127.0.0.1","timestamp":"2023-04-06T04:48:47.937Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CategoryData is created successfully","timestamp":"2023-04-06T04:48:48.470Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CategoryData is created successfully","timestamp":"2023-04-06T04:48:48.989Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CategoryData is created successfully","timestamp":"2023-04-06T04:48:54.556Z"}

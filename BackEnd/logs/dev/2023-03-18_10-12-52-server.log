@@ -1,0 +1,5 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-18T04:42:55.622Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get All user - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-18T04:42:56.745Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get All user - /users - GET - ::ffff:127.0.0.1","timestamp":"2023-03-18T04:43:10.252Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys - GET - ::ffff:127.0.0.1","timestamp":"2023-03-18T04:46:44.971Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys/1 - GET - ::ffff:127.0.0.1","timestamp":"2023-03-18T04:48:45.956Z"}

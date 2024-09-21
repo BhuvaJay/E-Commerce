@@ -1,0 +1,42 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-30T10:49:39.786Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:00:30.265Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:00:43.001Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:01:53.636Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:05:09.448Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:05:45.054Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:06:41.534Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:07:05.962Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:23:43.088Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:24:25.060Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:26:53.450Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:27:02.824Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:31:32.331Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:31:35.220Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:31:37.902Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:31:42.113Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:31:45.383Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:32:04.373Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:32:13.366Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:32:54.362Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:33:10.161Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:33:18.982Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:33:33.647Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:34:08.903Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:34:10.476Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:35:30.017Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:36:11.815Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:36:16.389Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:36:21.514Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:36:28.371Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:36:32.340Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:36:34.421Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:36:36.448Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:36:40.019Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:36:42.556Z"}
+{"appEnv":"dev","level":"error","message":"401 || Unauthorized - /Categorys?limit=50&skip=0&sortBy=categoryid:asc - GET - ::1","timestamp":"2023-03-30T11:37:24.714Z"}
+{"appEnv":"dev","level":"info","message":"201 || undefined - /users - POST - ::1","timestamp":"2023-03-31T13:17:58.097Z"}
+{"appEnv":"dev","level":"error","message":"undefinederror in sending mail","timestamp":"2023-03-31T13:17:59.866Z"}
+{"appEnv":"dev","level":"info","message":"201 || successfully get user - /checkUser - GET - ::1","timestamp":"2023-03-31T13:21:02.409Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-31T13:21:02.480Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-31T13:21:02.490Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-31T13:21:02.502Z"}

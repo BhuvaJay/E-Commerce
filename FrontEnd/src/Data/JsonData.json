@@ -1,0 +1,48 @@
+{"data":[
+    {
+      "id": 0,
+      "name": "LEGO Technic Monster Toy",
+      "category": "Toys",
+      "price": 2500,
+      "image": "https://m.media-amazon.com/images/I/81IzwKpqayL._AC_SL1500_.jpg",
+      "rating": 4.7,
+      "discount": 20
+    },
+    {
+      "id": 1,
+      "name": "Gildan Men's Crew T-Shirts",
+      "category": "Cloths",
+      "price": 1000,
+      "image": "https://m.media-amazon.com/images/I/710o0VupScL._AC_UX466_.jpg",
+      "rating": 4.6,
+      "discount": 10
+    },
+    {
+      "id": 2,
+      "name": "Marvel Toys(6 pieces)",
+      "category": "Toys",
+      "price": 2000,
+      "image": "https://m.media-amazon.com/images/I/613TyhHz3bL._AC_SL1001_.jpg",
+      "rating": 4.1,
+      "discount": 50,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "iPhone 13 Pro Max",
+      "category": "Electronics",
+      "price": 100000,
+      "image": "https://m.media-amazon.com/images/I/61i8Vjb17SL._AC_SL1500_.jpg",
+      "rating": 4.6,
+      "discount": 20
+    },
+    {
+      "id": 4,
+      "name": "Men's Denim Shirt",
+      "category": "Cloths",
+      "price": 1800,
+      "image": "https://m.media-amazon.com/images/I/A1wEjvjUA-L._AC_UX385_.jpg",
+      "rating": 4.4,
+      "discount": 60
+    }
+  ]}

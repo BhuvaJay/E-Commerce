@@ -1,0 +1,4 @@
+{"appEnv":"dev","level":"info","message":"Server is up on port 5000","timestamp":"2023-03-21T04:50:03.400Z"}
+{"appEnv":"dev","level":"error","message":"400 || undefined - /Carts - POST - ::1","timestamp":"2023-03-21T04:50:10.813Z"}
+{"appEnv":"dev","level":"info","message":"1 - CartData is updated","timestamp":"2023-03-21T04:50:10.865Z"}
+{"appEnv":"dev","level":"info","message":"undefined - CartData is created successfully","timestamp":"2023-03-21T04:52:31.732Z"}
